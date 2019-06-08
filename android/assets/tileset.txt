@@ -1,0 +1,132 @@
+tileset.png
+size: 512, 1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+grass
+  rotate: false
+  xy: 0, 0
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+grass_forest
+  rotate: false
+  xy: 32, 0
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+grass_huge_forest
+  rotate: false
+  xy: 64, 0
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+grass_hills
+  rotate: false
+  xy: 96, 0
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+grass_forest_hills
+  rotate: false
+  xy: 128, 0
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+grass_mountains
+  rotate: false
+  xy: 160, 0
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+sea
+  rotate: false
+  xy: 192, 0
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+river011011
+  rotate: false
+  xy: 256, 96
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+river010010
+  rotate: false
+  xy: 288, 96
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+river001001
+  rotate: false
+  xy: 320, 96
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+river000011
+  rotate: false
+  xy: 352, 96
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+river011000
+  rotate: false
+  xy: 384, 96
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+river001010
+  rotate: false
+  xy: 416, 96
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+river010001
+  rotate: false
+  xy: 448, 96
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+river001011
+  rotate: false
+  xy: 256, 144
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+river011010
+  rotate: false
+  xy: 288, 144
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+river010011
+  rotate: false
+  xy: 320, 144
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+river011001
+  rotate: false
+  xy: 352, 144
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+
